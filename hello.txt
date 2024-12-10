@@ -1,2 +1,3 @@
 Hi This is my first git hub session
-It will shows the all changes i made 
+It will shows the all changes i made git 
+It is very easy to see my all changes 
